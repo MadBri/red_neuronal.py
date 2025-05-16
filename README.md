@@ -55,6 +55,7 @@ plt.tight_layout()
 plt.show()
 ```
 ###Explicación 
+
 Este proyecto utiliza el conjunto de datos MNIST, que contiene imágenes de dígitos manuscritos del 0 al 9, para construir y entrenar un modelo de red neuronal utilizando TensorFlow y Keras. A continuación, se describen los pasos realizados en el código.
 
 1. Cargar el Dataset MNIST
